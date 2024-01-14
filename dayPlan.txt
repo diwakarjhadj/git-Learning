@@ -1,6 +1,5 @@
 I am Running.
-I am Running very fast.
-I can swim.
+he is laughing.
 This is horse.
 You Did great job.
 I am Playing.
@@ -8,3 +7,4 @@ This is my car.
 What are you Playing?
 I am Playing Football.
 I am playing cricket.
+Ram is brave boy.
