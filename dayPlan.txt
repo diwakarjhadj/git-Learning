@@ -1,5 +1,6 @@
 I am Running.
 I am Running very fast.
+I can swim.
 This is horse.
 You Did great job.
 I am Playing.
