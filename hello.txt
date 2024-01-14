@@ -4,4 +4,3 @@ How Are You?
 Hello
 Hey
 what are you Doing?
-Bye
